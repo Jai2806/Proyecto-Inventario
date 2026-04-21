@@ -51,3 +51,6 @@ java -cp bin com.jailynne.inventario.Main
 
 ## Integrantes
 **Jailynne Acuña Corrales** y **Carlos Díaz**.
+
+# Proyecto-Inventario
+
