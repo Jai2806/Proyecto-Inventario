@@ -1,3 +1,4 @@
+// Clase que maneja la lógica del inventario
 package com.jailynne.inventario;
 
 import java.util.ArrayList;
