@@ -1,6 +1,8 @@
-# Sistema de Inventario de Bodega TI
+Sistema desarrollado por Jailynne Acuña y Carlos Díaz
 
-**Integrantes:** Jailynne Acuña Corrales y Carlos Díaz  
+Proyecto académico para gestión de inventario TI
+
+# Sistema de Inventario de Bodega TI
 **Lenguaje:** Java  
 **Tipo:** Aplicación de consola  
 
@@ -48,6 +50,3 @@ java -cp bin com.jailynne.inventario.Main
 - Si el usuario ingresa una opción inválida, el sistema lo indica.
 - Si el usuario deja la búsqueda vacía, el sistema muestra un mensaje de validación.
 - Si no existen coincidencias, el sistema informa que no hubo resultados.
-
-
-Sistema desarrollado por Jailynne Acuña y Carlos Díaz
