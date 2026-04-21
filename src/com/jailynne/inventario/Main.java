@@ -1,3 +1,4 @@
+// Clase principal del sistema de inventario TI
 package com.jailynne.inventario;
 
 /**
