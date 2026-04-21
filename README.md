@@ -49,8 +49,5 @@ java -cp bin com.jailynne.inventario.Main
 - Si el usuario deja la búsqueda vacía, el sistema muestra un mensaje de validación.
 - Si no existen coincidencias, el sistema informa que no hubo resultados.
 
-## Integrantes
-**Jailynne Acuña Corrales** y **Carlos Díaz**.
 
-# Proyecto-Inventario
-
+Sistema desarrollado por Jailynne Acuña y Carlos Díaz
