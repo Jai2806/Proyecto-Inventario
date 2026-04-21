@@ -11,6 +11,7 @@ package com.jailynne.inventario;
  */
 public class Main {
 
+    // Método principal del sistema
     public static void main(String[] args) {
         int opcion;
 
